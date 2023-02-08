@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Eliza Stuglik.
+I am a student at the Digital Humanities and Digital Knowledge master degree at the Alma Mater University of Bologna. 
+
+- 📫 How to reach me: elizastuglik6798@gmail.com
 
 <!--
 **elizastuglik/ElizaStuglik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
